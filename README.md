@@ -1,1 +1,1 @@
-<h2> CV Dosyam PDF şeklinde ektedir. </h2>
+<h2> My CV file as pdf format. </h2>
